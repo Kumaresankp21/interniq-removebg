@@ -12,4 +12,12 @@
         "dest": "/app.py"
       }
     ]
+  },
+{
+  "functions": {
+    "api/**/*.py": {
+      "maxDuration": 30,
+      "memory": 512
+    }
   }
+}
