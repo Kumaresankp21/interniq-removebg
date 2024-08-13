@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+}
+
+.navbar {
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,6 @@
+flask
+gunicorn
+pillow
+rembg
+base64
+uuid
